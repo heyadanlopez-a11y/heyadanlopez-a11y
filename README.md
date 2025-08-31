@@ -64,6 +64,8 @@ I'm an experienced IT Manager and cybersecurity leader with over 15 years in aer
 I’m open to collaboration, consulting, and sharing best practices in IT security, risk management, and cloud architecture.  
 Feel free to reach out via [email](mailto:heyadanlopez@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adan-lopez-76947911/).
 
+---
+
 ## 🔗 Resume
 [GRC Resume](https://github.com/heyadanlopez-a11y/Resumes/blob/e839421cebf83ed9747ab363d13ca6d7f071ab58/Resume-Adan%20Lopez-GRC.pdf)
 
