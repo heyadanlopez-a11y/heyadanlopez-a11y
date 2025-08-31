@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 👋 Hi, I'm Adan Lopez
 
 Welcome to my GitHub!  
@@ -68,7 +67,3 @@ Feel free to reach out via [email](mailto:heyadanlopez@gmail.com) or [LinkedIn](
 ---
 
 _This profile is a concise summary. For full details, see my [resume](#)._ <!-- Replace # with actual resume link when available -->
-````
-
-You can copy this directly into your profile README!  
-If you’d like your resume link added, just provide the URL. Let me know if you want any other edits.
