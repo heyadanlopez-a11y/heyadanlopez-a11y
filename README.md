@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Adan Lopez
 
-Welcome to my GitHub!  
-I'm an experienced cybersecurity leader with over 25 years in aerospace and defense sectors, specializing in governance, risk, and compliance (GRC), secure architecture, and project management for classified environments.
+25 years in cybersecurity leadership | Aerospace and defense sectors | cybersecurity manager, PM and consultant
 
 ---
 
