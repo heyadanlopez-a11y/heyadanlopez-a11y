@@ -8,6 +8,8 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 📧 heyadanlopez@gmail.com  
 📱 (714) 240-4496  
 [LinkedIn](https://www.linkedin.com/in/adan-lopez-76947911/)
+<li><a href=https://heyadanlopez-a11y.github.io/profiles/Resume-Adan Lopez-GRC (1).pdf">Resume for Governance Risk and Compliance</a></li>
+
 
 ---
 
@@ -35,15 +37,14 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 
 ## 🏆 Projects
 
- - [SAML Single Sign-On Risk Assessment for MSP Portal](https://heyadanlopez-a11y.github.io/profiles/riskassess-entra-sso-saml.html"
+    <li><a href=https://heyadanlopez-a11y.github.io/profiles/riskassess-entra-sso-saml.html">SAML Single Sign-On Risk Assessment for MSP Portal</a></li>
     <li><a href="https://heyadanlopez-a11y.github.io/profiles/risk-assessment-ai-internal.html">Risks of Private Generative AI In the Business</a></li>
     <li><a href="https://heyadanlopez-a11y.github.io/profiles/aup_acceptable_use_policy.html">Sample Acceptable Use Policy (AUP)</a></li>
     <li><a href="https://heyadanlopez-a11y.github.io/profiles/erp_threat_model.html</a></li>
 
 ---
 
-## 🔗 Resume
-[GRC Resume](https://github.com/heyadanlopez-a11y/Resumes/blob/e839421cebf83ed9747ab363d13ca6d7f071ab58/Resume-Adan%20Lopez-GRC.pdf)
+
 
 ---
 
