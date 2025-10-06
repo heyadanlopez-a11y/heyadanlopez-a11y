@@ -42,25 +42,6 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 
 ---
 
-## 🧑‍💻 Technical Skills
-
-- Risk Management & Compliance (NIST, RMF, HITRUST, CMMC, DFARS, GDPR, SOX)
-- Security Architecture & Engineering (Network segmentation, AD, VMware, CIS Benchmarks)
-- Cloud Security (Azure, AWS GovCloud, M365)
-- Vulnerability & Incident Management (Nessus, Extrahop NDR, Defender for Cloud)
-- Supply Chain Security (SOC II, Bitsight EASM)
-- Industrial Security (IIoT/IoT, physical barriers, surveillance)
-- Fluent in Spanish
-
----
-
-## 🔗 Let’s Connect
-
-I’m open to collaboration, consulting, and sharing best practices in IT security, risk management, and cloud architecture.  
-Feel free to reach out via [email](mailto:heyadanlopez@gmail.com) or [LinkedIn](https://www.linkedin.com/in/adan-lopez-76947911/).
-
----
-
 ## 🔗 Resume
 [GRC Resume](https://github.com/heyadanlopez-a11y/Resumes/blob/e839421cebf83ed9747ab363d13ca6d7f071ab58/Resume-Adan%20Lopez-GRC.pdf)
 
