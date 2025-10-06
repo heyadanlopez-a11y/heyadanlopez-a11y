@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Adan Lopez
+## Adan Lopez
 
-25 years in cybersecurity leadership | Aerospace and defense sectors | cybersecurity manager, PM and consultant
+Cybersecurity | Governance | Risk | Compliance | Generative AI
 
 ---
 
-## 📍 San Dimas, CA • 🇺🇸  
+## 📍 San Dimas, CA
 📧 heyadanlopez@gmail.com  
 📱 (714) 240-4496  
 [LinkedIn](https://www.linkedin.com/in/adan-lopez-76947911/)
 
 ---
 
-## 🛡️ Certifications & Clearances
-- Secret / SAP Clearance
+## 🛡️ Qualifications
 - ICS2 CISSP
 - COMPTIA Security+
 - ICD-705 SAP / DoD Risk Management Framework (RMF)
@@ -23,26 +22,23 @@
 ## 💼 Experience
 
 **IT Manager — Kirkhill, Inc. (2018–Present)**
-- Manage a team of 5 supporting DoD classified networks and GRC.
-- ISSM for DoD classified systems, program rescue, and ATO restoration.
-- Led $5M ERP migration to AWS GovCloud, delivered on time and under budget.
+- Cybersecurity planning, management, implementation, and daily operations
+- Cloud & hybrid security architecture, AD security, network hardening
+- SOC operations, incident handling and response, disaster recovery
+- Cloud and Supply Chain Risk, AI risk, Vulnerability management
 
-**IT System Administrator — Hartwell (2010–2018)**
+**IT System Administrator — Hartwell (2000–2018)**
 - GRC lead, IT architecture/engineering, and help desk supervisor.
-- Oversaw supply chain risk management and coordinated incident response.
+- Cybersecurity, incident handling and response, daily SOC operations
 
 ---
 
-## 🏆 Key Projects & Achievements
+## 🏆 Projects
 
-- **Project Management:** Delivered major ERP migration, overcoming team turnover and COVID-19 disruptions.
-- **Cybersecurity Operations:** Developed and implemented NIST 800-53, NIST 800-30, CMMC, and HITRUST frameworks.
-- **Risk Management:** Reduced CMMC assessment scope and cost; mapped business dependencies to MITRE ATT&CK.
-- **Incident Response:** Led IR planning, threat hunting, and response for advanced persistent threats.
-- **SOC & MSSP Oversight:** Standardized security operations across 50+ companies.
-- **Cloud Security:** Hardened Azure IaaS/PaaS, M365, implemented SSO, RBAC, and advanced DLP.
-- **Vulnerability Management:** Integrated multi-layered VM strategy with Tenable Nessus, Bitsight EASM, and more.
-- **Industrial/Physical Security:** Reduced IIoT/IoT risks, improved segmentation, and managed access control systems.
+ - [**SAML Single Sign-On Risk Assessment for MSP Portal**](https://heyadanlopez-a11y.github.io/profiles/riskassess-entra-sso-saml.html"
+    <li><a href="https://heyadanlopez-a11y.github.io/profiles/risk-assessment-ai-internal.html">Risks of Private Generative AI In the Business</a></li>
+    <li><a href="https://heyadanlopez-a11y.github.io/profiles/aup_acceptable_use_policy.html">Sample Acceptable Use Policy (AUP)</a></li>
+    <li><a href="https://heyadanlopez-a11y.github.io/profiles/erp_threat_model.html</a></li>
 
 ---
 
