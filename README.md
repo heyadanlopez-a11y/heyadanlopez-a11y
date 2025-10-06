@@ -4,7 +4,7 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 
 ---
 
-## 📍 San Dimas, CA
+## San Dimas, CA
 📧 heyadanlopez@gmail.com  
 📱 (714) 240-4496  
 [LinkedIn](https://www.linkedin.com/in/adan-lopez-76947911/)
@@ -13,7 +13,7 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 
 ---
 
-## 🛡️ Qualifications
+## Qualifications
 - ICS2 CISSP
 - COMPTIA Security+
 - ICD-705 SAP / DoD Risk Management Framework (RMF)
@@ -21,7 +21,7 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 
 ---
 
-## 💼 Experience
+## Experience
 
 **IT Manager — Kirkhill, Inc. (2018–Present)**
 - Cybersecurity planning, management, implementation, and daily operations
@@ -35,7 +35,7 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 
 ---
 
-## 🏆 Projects
+## Projects
 <li><a href=https://heyadanlopez-a11y.github.io/profiles/riskassess-entra-sso-saml.html">SAML Single Sign-On Risk Assessment for MSP Portal</a></li>
 <li><a href="https://heyadanlopez-a11y.github.io/profiles/risk-assessment-ai-internal.html">Risks of Private Generative AI In the Business</a></li>
 <li><a href="https://heyadanlopez-a11y.github.io/profiles/aup_acceptable_use_policy.html">Sample Acceptable Use Policy (AUP)</a></li>
