@@ -36,11 +36,11 @@ Cybersecurity | Governance | Risk | Compliance | Generative AI
 ---
 
 ## 🏆 Projects
-<li><a href=https://heyadanlopez-a11y.github.io/profiles/Resume-Adan Lopez-GRC (1).pdf">Resume for Governance Risk and Compliance</a></li>
+
     <li><a href=https://heyadanlopez-a11y.github.io/profiles/riskassess-entra-sso-saml.html">SAML Single Sign-On Risk Assessment for MSP Portal</a></li>
     <li><a href="https://heyadanlopez-a11y.github.io/profiles/risk-assessment-ai-internal.html">Risks of Private Generative AI In the Business</a></li>
     <li><a href="https://heyadanlopez-a11y.github.io/profiles/aup_acceptable_use_policy.html">Sample Acceptable Use Policy (AUP)</a></li>
-    <li><a href="https://heyadanlopez-a11y.github.io/profiles/erp_threat_model.html</a></li>
+    <li><a href="https://heyadanlopez-a11y.github.io/profiles/erp_threat_model.html">Threat Modeling Exercise for Cloud ERP</a></li>
 
 ---
 
